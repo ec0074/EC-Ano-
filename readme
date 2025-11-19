@@ -1,1 +1,41 @@
-[EC] Ano permet, via la commande </ano >à un joueur d’envoyer son message en anonyme dans le chat.
+📦 EC_ano V2 – Plugin d’anonymisation de messages pour NovaLife 
+
+
+EC_ano est un plugin NovaLife permettant aux joueurs d’envoyer des messages anonymes via la commande /ano, avec gestion du prix, cooldown, filtrage de mots interdits et logs.
+  
+
+🔹 Message anonyme (/ano)
+Permet aux joueurs d’envoyer un message anonymement à tout le serveur.
+* Customisation de la couleur du tag [EC-ANONYME]
+* Configuration du prix de la commande
+* Cooldown individuel configurable
+
+ 🔹 Filtre de mots interdits
+Le plugin inclut un filtre automatique des mots interdits :
+* Fichier généré automatiquement : EC-Prohibida.txt
+* Censure des mots par des XXXXX
+* Option d’activation/désactivation dans la configuration   
+
+🔹Log avancé
+* EC_ano logs : inscrit tout les messages comportant la commande /ano (mots censurés masqué) 
+* EC_ano_Prohibida_logs : inscrit seulement les messages contenant les mots censuré (mots censurés non maqué)  
+* EC-Prohibida : inscrit tout les mots qui seront censuré, vous pouvez mettre ce que vous voulez.  
+* EC_ano_licencia : Pour entré votre licence  
+
+
+🔹Utilisation
+
+⚠️Une licence est nécessaire pour l'utilisation de ce plugin sur un serveur, obtenir une licence -> https://discord.gg/TmwAvJdbN4 (gratuit) 
+Le code source de ce plugin est privé.
+Interdiction de décompiler ce plugin  Interdiction de se l’approprier
+
+
+🧰Utilisation
+Depuis le GitHub, téléchargez le fichier .dll du plugin.  
+Placez ensuite ce fichier dans votre dossier Plugins.
+Lancez votre serveur, et le plugin sera fonctionnel.
+Ce plugin ne possède aucune dépendances.
+
+🔗Télécharger [EC] Ano :https://github.com/ec0074/-EC-Ano/tree/main
+⬇️Signaler bug,amelioration, demande utilisation plugin:
+https://discord.gg/TmwAvJdbN4
